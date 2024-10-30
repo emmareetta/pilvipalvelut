@@ -1,4 +1,4 @@
-## TErvetuloa sivustolleni
+## Tervetuloa sivustolleni
 
 Tälle sivustolle kerään Pilvipalvelut web-kehityksessä tehtävät
 
