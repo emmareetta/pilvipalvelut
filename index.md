@@ -7,5 +7,7 @@ Tälle sivustolle kerään Pilvipalvelut web-kehityksessä tehtävät
 - Viikko 3
 - Viikko 4
 - Viikko 5
+- Viikko 6
+- Harjoitustyö
 
   
