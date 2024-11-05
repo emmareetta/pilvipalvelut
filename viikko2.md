@@ -1,1 +1,3 @@
-Tähän tulee teksti git hub actioneista
+Github Actions mahdollistaa helpon tavan siirtää, esimerkiksi verkkosivuston suoraan tuotantoon automaattisesti muutosten jälkeen. Näin esimerkiksi pelkällä push-komennolla voidaan ajaa uusi versio tuotantoon. Tuotantoon ajamisen lisäksi Github Actionseja voidaan hyödyntää myös testauksessa, jolloin testit ajetaan aina muutosten jälkeen. Näin Github Actioneiden workflowlla (työjonoilla) voidaan automatisoita prosessi uuden toiminnallisuuden ohjelmoinnista kohti tuotantoa, niin että koodi testataan ja varmistetaan ennen tuotantoon siirtoa.
+
+CI/CD putki Github Actionsin kautta mahdollistaa koko putken järjestämisen yhden toimijan kautta. Esimerkiksi jos olet tekemässä Node.js projektia minkä buildaat (koonti) Dockerilla voit luoda näiden pohjalta CI/CD putken juuri sinun projektillesi.
