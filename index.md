@@ -7,7 +7,7 @@ Tälle sivustolle kerään Pilvipalvelut web-kehityksessä tehtävät
 - [Viikko 3](./viikko3/index.html)
 - [Viikko 4](./Viikko4/index.html)
 - [Viikko 5](./viikko5/analytiikka.md)
-- [Viikko 6](.viiko6/index.html)
+- [Viikko 6](./viikko6/index.html)
 - Harjoitustyö
 
   
