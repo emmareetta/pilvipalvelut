@@ -11,7 +11,13 @@ REST Apista (The Cat API).
 
 *Latausajat:
 - Latausajat testasin PageSpeed Insights työkalulla.
+
+  Latausajat mobiilissa
+  
 ![Latausajat mobiili](![image](https://github.com/user-attachments/assets/e253468e-c5d9-4034-bde2-ed89745dea64)
+
+  Latausajat tietokoneella
+
 ![Latausajat Descktop](![image]![image](https://github.com/user-attachments/assets/54f2e15e-059c-4472-808d-3f5e41278ae1)
 
 *Toimivuus eri selaimilla
