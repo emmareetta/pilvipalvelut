@@ -24,4 +24,7 @@ REST Apista (The Cat API).
 - Testasin sivuston toimivuuden  Chromella, Safarilla ja Firefoxilla. Sivusto toimi luotettavasti kaikilla selaimilla.
 
 
-[Linkki harjoitustyöhön:](./Kissatietoa/index.html) 
+Linkki harjoitustyöhön [Kissatietoa](./Kissatietoa/index.html) 
+
+Käyttäjätunnus: testi@testi.org
+Salasana: TestiSalasana
