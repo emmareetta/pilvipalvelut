@@ -10,6 +10,6 @@ Sivustolla on myös mahdollisuus selata satunnaisia kissakuvia.
 
 *Latausajat:
 - Latausajat testassin PageSpeed Insights työkalulla.
-![alt text]()
+![](/Sreenshotmobiili.png)
 
 [Linkki harjoitustyöhön:](./Kissatietoa/index.html) 
